@@ -20,3 +20,9 @@ This is a simulation of a Tyre Pressure Monitoring System (TPMS) that alerts use
 - Wrote logic to simulate and monitor sensor data
 - Helped integrate alert system using buzzer & LED indicators
 - Worked on
+- ## 📸 Screenshots
+
+This is the prototype setup of the Tyre Pressure Monitoring System during our college project.
+
+![TPMS Prototype](screenshots/tpms_demo.jpg)
+
